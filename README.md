@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Wasim Akram
 - 👀 Interested in Data Science, AI & ML.
-- 🌱 Currently going through intensive Data Analytics Bootcamp @ Codebasics.io
+- 🌱 Currently going through intensive Data Analytics Bootcamp @ https://codebasics.io/
 - 💞️ Looking to collaborate on data analytics/science projects.
 - 💼 My Skills:
      - Communication Skills
