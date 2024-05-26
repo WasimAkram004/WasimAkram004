@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Wasim Akram
-- 👀 I’m interested in Data Science, AI & ML.
-- 🌱 I’m currently going through intensive Data Analytics Bootcamp @ Codebasics.io
-- 💞️ I’m looking to collaborate on data analytics/science projects.
+- 👋 Hey, I’m Wasim Akram
+- 👀 Interested in Data Science, AI & ML.
+- 🌱 Currently going through intensive Data Analytics Bootcamp @ Codebasics.io
+- 💞️ Looking to collaborate on data analytics/science projects.
 - 💼 My Skills:
      - Communication Skills
      - Analytical Skills
@@ -9,7 +9,7 @@
      - MS Excel
      - Power BI and more data science are to be added.
 
-- 📫 In case you wanna reach out to me, reach out here @ wasimakramgj5186@gmail.com 
+- 📫 In case you wanna reach out to me, reach out here @wasimakramgj5186@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
