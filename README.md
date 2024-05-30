@@ -3,15 +3,17 @@
 - 🌱 Currently going through intensive Data Analytics Bootcamp @ https://codebasics.io/
 - 💞️ Looking to collaborate on data analytics/science projects.
 - 💼 My Skills:
-     - Communication Skills
-     - Analytical Skills
-     - Critical Thinking
      - MS Excel
-     - Power BI and more data science are to be added.
-
-- 📫 In case you wanna reach out to me, reach out here @wasimakramgj5186@gmail.com 
+     - Power BI
+     - MySQL
+     - Python
+     - Communication Skills
+     - Analytical Skills &
+     - Critical Thinking
+       
+- 📫 Reach out me here @wasimakramgj5186@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: will add soon hahaha
 
 <!---
 WasimAkram004/WasimAkram004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
