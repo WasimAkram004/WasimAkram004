@@ -12,13 +12,12 @@
 
 - 📫 How to reach me **wasimakramgj5186@gmail.com**
 
-- ⚡ Fun fact **:Accidentally into IT Professional 😎**
+- ⚡ Fun fact **:Accidentally into IT Profession but enjoying it 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wasim-akram-nuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-akram-nuh" height="30" width="40" /></a>
 <a href="https://kaggle.com/wasimakramsalafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wasimakramsalafi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@data_bee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@data_bee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/wasimakram5186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/wasimakram5186" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/gj5186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gj5186/" height="30" width="40" /></a>
 </p>
