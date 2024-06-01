@@ -1,4 +1,4 @@
-![MasterHead](https://img.wattpad.com/1da8106af8d4d9482c6e1add2e94eba40cfab487/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4d47456e6d4a50416d4e766562773d3d2d313031383937373133332e3136356633386537653036626339383832393032373935363033302e676966)
+[![MasterHead](https://img.wattpad.com/1da8106af8d4d9482c6e1add2e94eba40cfab487/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4d47456e6d4a50416d4e766562773d3d2d313031383937373133332e3136356633386537653036626339383832393032373935363033302e676966)
 <h1 align="center">Hi 👋, I'm Wasim Akram</h1>
 <h3 align="center">Data Analyst💼</h3>
 <h3 align="center">✨AI enabled Data Analyst from India✨</h3>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wasimakramgj5186@gmail.com**
 
-- ⚡ Fun fact **: Accidentally into IT profession and enjoying it 😎**
+- ⚡ Fun fact **:Accidentally into IT Professional 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
