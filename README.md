@@ -7,7 +7,7 @@
 <body>
     <div align="center">
         <h1>Hi there👋, I'm Wasim Akram</h1>
-        <h3>AI enabled Data Analyst 💼, from India</h3>
+        <h3>💠AI enabled Data Analyst 💼, from India💠</h3>
     </div>
     <p align="left"> 
         <img src="https://komarev.com/ghpvc/?username=wasimakram004&label=Profile%20views&color=0e75b6&style=flat" alt="wasimakram004" />
