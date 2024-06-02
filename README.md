@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wasim Akram's GitHub Profile</title>
 </head>
 <body>
     <div align="center">
@@ -39,7 +40,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Desktop" width="40" height="40"/>
         </a>
         <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="MS Excel" width="40" height="40"/>
+            <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="MS Excel" width="40" height="40"/>
         </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
