@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimakram004&label=Profile%20views&color=0e75b6&style=flat" alt="wasimakram004" /> </p>
 
-- 🔭 I’m currently working on **Data Science Skills Set**
-
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **SQL & Python**
 
 - 💬 Ask me about **Power BI, MS Excel**
 
 - 📫 How to reach me **wasimakramgj5186@gmail.com**
 
-- ⚡ Fun fact **: Accidentally into IT Profession and but enjoying 😎**
+- ⚡ Fun fact **: Accidentally into IT Profession and but enjoying it 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
